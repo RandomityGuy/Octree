@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octree", "Octree\Octree.csproj", "{80CB09AF-CC21-4CDE-85FC-E809228AAEC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctreeTests", "OctreeTests\OctreeTests.csproj", "{5E2F6325-77CB-4E1F-87DA-F6B9E9E8DB54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CB09AF-CC21-4CDE-85FC-E809228AAEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CB09AF-CC21-4CDE-85FC-E809228AAEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CB09AF-CC21-4CDE-85FC-E809228AAEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CB09AF-CC21-4CDE-85FC-E809228AAEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2F6325-77CB-4E1F-87DA-F6B9E9E8DB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2F6325-77CB-4E1F-87DA-F6B9E9E8DB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2F6325-77CB-4E1F-87DA-F6B9E9E8DB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2F6325-77CB-4E1F-87DA-F6B9E9E8DB54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26944B55-EF06-42FF-9904-56ABBA6B1FCE}
+	EndGlobalSection
+EndGlobal
